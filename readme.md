@@ -1,6 +1,7 @@
 Proyecto SafeStomach\
 Integrantes:\
 Roberto Burdiles\
-Sebastian Candia\
-Juan Villagran\
+Sebastián Candia\
+Juan Villagrán\
 Nawel Huenchuleo
+
